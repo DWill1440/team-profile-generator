@@ -1,5 +1,5 @@
 # team-profile-generator
-
+![image](https://user-images.githubusercontent.com/64138572/88736912-70258880-d0fe-11ea-8412-8bf5018bb806.png)
 
 ## Description
 
@@ -42,9 +42,9 @@ To run tests, run the following command:
 ```
 npm run test
 ```
-## Video Demonstration
+## Video Demo
 
-https://drive.google.com/file/d/1rRh0DLDYudzgFFxMKEeimxKXKqkAm-Pm/view
+https://drive.google.com/file/d/1Xa8PdcpfrHcB0B55plRlHYPWFeeBvPYO/view
 
 ## Questions
 
